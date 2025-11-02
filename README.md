@@ -28,13 +28,13 @@ npm -v
 
 2. Clone or download this repository:
 git clone <repo-link>
-cd emoji-editor
+cd smiley-maker
 
 3. Install project dependencies:
 npm install
 
 4. Start the development server:
-npm run dev
+npm start
 
 5. Open in your browser
   http://localhost:3000 
