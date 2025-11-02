@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Emoji Editor 😄</h1>
+      <h1>Smiley Maker 😄</h1>
       <p>Click an emoji and change its size!</p>
 
       <div className="emoji-picker">
