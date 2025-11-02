@@ -1,4 +1,4 @@
-## 🎨 Emoji Editor
+## 🎨 Smiley Maker
 
 This is a simple Emoji Editor made using **React**.  
 You can click on any emoji and change its size using a slider.
